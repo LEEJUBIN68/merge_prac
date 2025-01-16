@@ -1,0 +1,2 @@
+이름 설정 : $ git config --global user.name "<name>"
+이메일 설정 : $ git config --global user.email <email>
